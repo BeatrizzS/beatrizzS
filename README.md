@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineering Student / Interest in back-end<br>🤝 I’m looking for help with back-end<br>🌱 I’m currently learning Java
+🔭 Software Engineering Student / Interest in back-end<br>🌱 Java developer
 
 
 # 💻 Tech Stack:
